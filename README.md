@@ -4,14 +4,14 @@ This is a CLI build with javascript to check Cryto Currency prices from [Nomics]
 
 #### API
 
-###### key <param>
+###### key [param]
 | Parameter | Detail         |
 | ----------|:--------------:|
 | set       | Set API key    |
 | show      | Show API key   |
 | delete    | Delete API key |
 
-###### check <param>
+###### check [param]
 | Parameter | Detail      |
 | ----------|:-----------:|
 | price     | Check price |
